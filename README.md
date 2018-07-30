@@ -1,5 +1,5 @@
 # update LineBot-PY3
-konten berbayar
+- berbayar
 ```
 non limit chat
 suport all feature script python3
@@ -9,4 +9,4 @@ lib screate...
 
 info lebih lanjut
 klik dibawah ini
-## CREATOR
+## [CREATOR](http://line.me/ti/p/~adiputra.95)
